@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+// Teste commit
+
 public class Login extends AppCompatActivity implements View.OnClickListener {
 
     EditText etName, etPassword;
