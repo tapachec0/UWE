@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tabSelectIconColor">#EE5A24</color>
+    <color name="tabUnselectIconColor">#CDCDCD</color>
+
+</resources>
